@@ -74,7 +74,11 @@ const UserMenu = () => {
                     <>
                         <MenuItem
                         onClick={() => {}}
-                        label ="Inicio de Sesión"
+                        label ="Iniciar Sesión"
+                        />
+                        <MenuItem
+                        onClick={() => {}}
+                        label ="Registrarse"
                         />
                     </>
                 </div>
